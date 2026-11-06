@@ -1,0 +1,3 @@
+bloco G ok (98s)
+bloco A2 ok (194s)
+bloco F2 ok (389s)

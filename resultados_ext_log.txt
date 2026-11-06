@@ -1,0 +1,23 @@
+bloco A ok (49s)
+bloco B ok (234s)
+C_deap2 f1000_s1 36
+C_deap2 f1000_s5 36
+C_deap2 f1000_s10 36
+C_deap2 f5000_s1 22
+C_deap2 f5000_s5 22
+C_deap2 f5000_s10 22
+bloco C ok (429s)
+E_dim10 f1000_s1 36
+E_dim10 f1000_s5 36
+E_dim10 f1000_s10 36
+E_dim10 f5000_s1 22
+E_dim10 f5000_s5 22
+E_dim10 f5000_s10 22
+bloco E ok (660s)
+D_sementes30a99 f1000_s1 36
+D_sementes30a99 f1000_s5 36
+D_sementes30a99 f1000_s10 36
+D_sementes30a99 f5000_s1 22
+D_sementes30a99 f5000_s5 22
+D_sementes30a99 f5000_s10 22
+bloco D ok (1100s)

@@ -1,0 +1,32 @@
+Sementes=100, ambientes=20, pontos/ambiente=500
+
+== lambda=0.0  s=1.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    0.997 (0.003)  DEAP:    0.998 (0.002)  dif: -0.000  p=0.232
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   61.821 (14.349)  DEAP:   62.367 (14.788)  dif: -0.546  p=0.739
+== lambda=0.0  s=5.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    4.945 (0.027)  DEAP:    4.944 (0.025)  dif: +0.001  p=0.635
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   61.573 (14.614)  DEAP:   62.239 (14.775)  dif: -0.666  p=0.686
+== lambda=0.0  s=10.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    9.781 (0.074)  DEAP:    9.782 (0.068)  dif: -0.001  p=0.980
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   61.605 (14.752)  DEAP:   61.949 (14.343)  dif: -0.344  p=0.731
+== lambda=0.5  s=1.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    0.997 (0.002)  DEAP:    0.998 (0.002)  dif: -0.000  p=0.316
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   61.781 (14.573)  DEAP:   62.410 (14.977)  dif: -0.629  p=0.668
+== lambda=0.5  s=5.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    4.945 (0.011)  DEAP:    4.939 (0.018)  dif: +0.006  p=0.004
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   62.037 (14.843)  DEAP:   62.016 (14.893)  dif: +0.022  p=0.929
+== lambda=0.5  s=10.0
+   altura do ótimo global                 meu:   65.144 (1.455)  DEAP:   64.908 (1.293)  dif: +0.236  p=0.054
+   deslocamento médio por mudança         meu:    9.782 (0.029)  DEAP:    9.763 (0.050)  dif: +0.019  p=0.008
+   largura média                          meu:    6.575 (0.786)  DEAP:    6.594 (0.876)  dif: -0.019  p=0.838
+   erro off-line da busca aleatória       meu:   62.557 (14.847)  DEAP:   61.555 (13.385)  dif: +1.003  p=0.812

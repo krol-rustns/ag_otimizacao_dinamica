@@ -1,0 +1,25 @@
+# Ambiente virtual e caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Saídas regeneráveis das análises (use AGDIN_TABELAS / AGDIN_FIGURAS para outro destino)
+saida/
+
+# Arquivos de editor e de sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de LaTeX (caso o artigo seja colocado nesta pasta)
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz

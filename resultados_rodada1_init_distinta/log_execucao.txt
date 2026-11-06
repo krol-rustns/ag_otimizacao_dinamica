@@ -1,0 +1,7 @@
+f1000_s1: N_eq=36  (10s)
+f1000_s5: N_eq=36  (19s)
+f1000_s10: N_eq=36  (29s)
+f5000_s1: N_eq=22  (85s)
+f5000_s5: N_eq=22  (143s)
+f5000_s10: N_eq=22  (197s)
+Concluído: /home/claude/artigo_ag_dinamico/codigo/resultados
